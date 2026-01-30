@@ -52,7 +52,7 @@ class Account:
     def deposit(self, amount):
         self.balance += amount
 
-acc = Account("Janhavi Chaudhari", 5000)
+acc = Account("kunal patil", 5000)
 acc.show_balance()
 acc.deposit(2000)
 acc.show_balance()

@@ -3,7 +3,7 @@
 
 # Example 1: Simple dictionary
 student = {
-    "name": "Janhavi",
+    "name": "avinash",
     "course": "MCA",
     "age": 23
 }
@@ -34,7 +34,7 @@ for key, value in student.items():
 
 # Example 6: Dictionary with list as value
 portfolio = {
-    "name": "Janhavi",
+    "name": "kunal",
     "skills": ["HTML", "CSS", "Python", "Bootstrap"]
 }
 

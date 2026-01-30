@@ -16,8 +16,8 @@ def student_info(name, course):
     print("Student Name:", name)
     print("Course:", course)
 
-student_info("Janhavi", "MCA")
-student_info("Anamika", "BCA")
+student_info("kunal", "MCA")
+student_info("chetan", "BCA")
 
 
 # Example 3: Function with return value
@@ -65,7 +65,7 @@ def show_profile(profile):
         print(key, ":", value)
 
 profile_data = {
-    "Name": "Janhavi",
+    "Name": "kunal",
     "Course": "MCA",
     "College": "GESCOE"
 }
